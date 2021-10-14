@@ -1,4 +1,4 @@
-# Hi there <span class="wave">👋</span> 
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 * Myself Tushar Srivastav student at Graphic Era Deemed To Be University(B.tech CSE)
