@@ -1,4 +1,4 @@
-# Hi there <span class="wave">👋</span> k
+# Hi there <span class="wave">👋</span> 
 
 
 * Myself Tushar Srivastav student at Graphic Era Deemed To Be University(B.tech CSE)
