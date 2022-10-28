@@ -1,6 +1,6 @@
 
 [![@tusharsrivastav's Holopin board](https://holopin.me/tusharsrivastav)](https://holopin.io/@tusharsrivastav)
-![image](https://user-images.githubusercontent.com/71928146/136748758-35fa66ce-8374-4a37-8fd1-3c0edaf3e0ff.png)
+![image](https://user-images.githubusercontent.com/71928146/198614820-6262227a-dfdf-4c9c-af05-f818e2af2a06.png)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 , I'm Tushar Srivastav</h1>
